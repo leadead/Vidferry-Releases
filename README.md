@@ -8,8 +8,9 @@ A video downloader for macOS. Paste a link, or find the video playing in the bui
 
 Requires macOS 26 or later on Apple Silicon. The interface is available in English, 简体中文, 日本語 and Tiếng Việt.
 
-1. Download [Vidferry.zip](https://github.com/leadead/Vidferry-Releases/releases/latest/download/Vidferry.zip) ([all versions](https://github.com/leadead/Vidferry-Releases/releases))
-2. Unzip it and drag Vidferry to Applications
+1. Download [Vidferry.dmg](https://github.com/leadead/Vidferry-Releases/releases/latest/download/Vidferry.dmg) ([all versions](https://github.com/leadead/Vidferry-Releases/releases))
+2. Open the disk image and drag Vidferry to the Applications folder
+3. Open Vidferry from Applications; you can then eject the disk image
 
 The app is notarized by Apple.
 
@@ -43,8 +44,9 @@ macOS 视频下载器：粘贴链接，或在内置浏览器中发现正在播�
 
 系统要求：macOS 26 及以上，Apple Silicon。界面支持 English、简体中文、日本語、Tiếng Việt。
 
-1. 下载 [Vidferry.zip](https://github.com/leadead/Vidferry-Releases/releases/latest/download/Vidferry.zip)（[所有版本](https://github.com/leadead/Vidferry-Releases/releases)）
-2. 解压后把 Vidferry 拖入「应用程序」
+1. 下载 [Vidferry.dmg](https://github.com/leadead/Vidferry-Releases/releases/latest/download/Vidferry.dmg)（[所有版本](https://github.com/leadead/Vidferry-Releases/releases)）
+2. 打开 DMG，把 Vidferry 拖到「应用程序」文件夹
+3. 从「应用程序」打开 Vidferry，之后可以推出 DMG
 
 安装包已通过 Apple 公证。
 
